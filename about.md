@@ -1,4 +1,4 @@
-### about
+### About
 
 coming soon...
 
