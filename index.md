@@ -6,6 +6,10 @@ Github Pagesで簡単に作成できました。
 ### Name
 - h020nnj
 
+### About
+
+詳細を知りたい方は、[こちら](/test/about.html)をご覧ください。
+
 ### Links
 
 - coming soon...
